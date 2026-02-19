@@ -32,4 +32,3 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 </script>
 
 </body>
-</html>

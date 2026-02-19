@@ -12,7 +12,7 @@ $fields  = ['listening', 'watching', 'reading', 'working on', 'thinking'];
 <main class="pt-16">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
         <h1 class="text-2xl font-semibold mb-3">Log</h1>
-        <p class="text-neutral-300 text-sm mb-16">What I'm into lately. Updated whenever.</p>
+        <p class="text-neutral-300 text-sm mb-16">What I've been doing recently. Don't expect this to be updated recently</p>
 
         <div class="space-y-12">
             <?php if (empty($entries)): ?>
