@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "name": "Interesting",
+      "links": [
+        { "title": "Example", "url": "https://example.com", "note": "optional description" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "links": [
+        { "title": "Example", "url": "https://example.com" }
+      ]
+    },
+    {
+      "name": "Reading",
+      "links": [
+        { "title": "Example", "url": "https://example.com" }
+      ]
+    }
+  ]
+}
