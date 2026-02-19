@@ -11,7 +11,7 @@ $categories = $data['categories'] ?? [];
 <main class="pt-16">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
         <h1 class="text-2xl font-semibold mb-3">Links</h1>
-        <p class="text-neutral-400 text-sm mb-16">A collection of interesting and useful website</p>
+        <p class="text-neutral-400 text-sm mb-16">A collection of interesting and useful websites.</p>
 
         <div class="space-y-12">
             <?php foreach ($categories as $cat): ?>
