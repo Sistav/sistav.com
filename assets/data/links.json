@@ -3,19 +3,19 @@
     {
       "name": "Interesting",
       "links": [
-        { "title": "Example", "url": "https://example.com", "note": "optional description" }
+        { "title": "meow.camera", "url": "https://meow.camera/#4258783365322591678", "note": "Cat Cam Livestream" }
       ]
     },
     {
       "name": "Tools",
       "links": [
-        { "title": "Example", "url": "https://example.com" }
+        { "title": "Cover Your Tracks", "url": "https://coveryourtracks.eff.org/" }
       ]
     },
     {
-      "name": "Reading",
+      "name": "Piracy",
       "links": [
-        { "title": "Example", "url": "https://example.com" }
+        { "title": "Vimm's", "url": "https://vimm.net/" }
       ]
     }
   ]
