@@ -3,19 +3,33 @@
     {
       "name": "Interesting",
       "links": [
-        { "title": "meow.camera", "url": "https://meow.camera/#4258783365322591678", "note": "Cat Cam Livestream" }
+        { "title": "meow.camera", "url": "https://meow.camera/#4258783365322591678", "note": "Cat Cam Livestream" },
+        { "title": "Why I Use the GPL", "url": "https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/", "note": "Luke Smith on copyleft licensing" },
+        { "title": "I Know What You Download", "url": "https://iknowwhatyoudownload.com/en/peer/", "note": "See torrents tied to an IP address" },
+        { "title": "copy.sh v86", "url": "https://copy.sh/v86/", "note": "x86 PC emulator in the browser" },
+        { "title": "SF Maker", "url": "https://www.leshylabs.com/apps/sfMaker/", "note": "Browser-based sound effect generator" }
       ]
     },
     {
       "name": "Tools",
       "links": [
-        { "title": "Cover Your Tracks", "url": "https://coveryourtracks.eff.org/" }
+        { "title": "Cover Your Tracks", "url": "https://coveryourtracks.eff.org/" },
+        { "title": "DuckDNS", "url": "https://www.duckdns.org/", "note": "Free dynamic DNS" },
+        { "title": "netboot.xyz", "url": "https://netboot.xyz/", "note": "Network bootable OS installer" },
+        { "title": "NirSoft USBLogView", "url": "https://www.nirsoft.net/utils/usb_log_view.html", "note": "Log USB device connections" },
+        { "title": "LinuxGSM", "url": "https://linuxgsm.com/servers/", "note": "Linux game server manager" },
+        { "title": "SideStore", "url": "https://sidestore.io/", "note": "Sideload apps on iOS without a PC" },
+        { "title": "Privacy Tools", "url": "https://www.privacytools.io/", "note": "Privacy-focused software recommendations" },
+        { "title": "cobalt", "url": "https://cobalt.tools/", "note": "Media downloader for YouTube, Twitter, etc." },
+        { "title": "Witch", "url": "http://witch.valdikss.org.ru/", "note": "Check if you're on a VPN" }
       ]
     },
     {
       "name": "Piracy",
       "links": [
-        { "title": "Vimm's", "url": "https://vimm.net/" }
+        { "title": "Vimm's", "url": "https://vimm.net/" },
+        { "title": "FitGirl Repacks", "url": "https://fitgirl-repacks.site/", "note": "Compressed game repacks" },
+        { "title": "Tidal Squid", "url": "https://tidal.squid.wtf/", "note": "Tidal music downloader" }
       ]
     }
   ]
